@@ -6,6 +6,8 @@ class: center, middle, title
 
 # 12-Factor Applications
 
+![Too Afraid to Ask](12-factor-apps.jpg)
+
 Benjamin R. Haskell
 
 benizi -
@@ -361,3 +363,22 @@ class: roman
     - Also process model of #6 (Processes)
 
 [blogpost]: http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/
+
+---
+
+# Credits
+
+- The 12-Factor App:
+    - [12factor.net][12factor]
+    - [Source code on GitHub][12factorsource]
+- Other posts about 12-Factor:
+    - [12-Factor Apps in Plain English][plainenglish]
+    - [AppFog Makes 12 Factor Apps Easier. But What Are 12 Factor Apps?][tooafraid]
+        - Source for Andy Dwyer meme.
+- Headings in this slide deck are links to the corresponding rule on 12factor.net.
+- This deck available at: [https://benizi.github.io/12factor](https://benizi.github.io/12factor)
+
+[plainenglish]: http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/
+[tooafraid]: https://www.ctl.io/blog/post/appfog-and-twelve-factor-apps-explained/
+[12factor]: http://12factor.net
+[12factorsource]: https://github.com/heroku/12factor
